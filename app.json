@@ -1,6 +1,6 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
+  "name": "✦ᏕᏋᏁᏬ-xᴅ✦",
+  "description": "Javascript WhatsApp bot made by ᏕᏋᏁᏬ ᴛᴇᴄʜ🪀",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~FlJhEJ6K#5FB3WSmHBkOTjMkTNp4T8EcMTFln41e6gmrbAD3yRrM",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~FlJhEJ6K#5FB3WSmHBkOTjMkTNp4T8EcMTFln41e6gmrbAD3yRrM"
     },  
     
     "MENU_IMG": {
@@ -28,13 +28,13 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
+      "value": "> ✦ᎥᎷ ᏕᏋᏁᏬ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᏕᏋᏁᏬ xᴅ v2✦ ғʀᴏᴍ ᏕᏋᏁᏬ ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "$"
     },
     
     "MODE": {
@@ -47,7 +47,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "MALVIN-XD"
+      "value": "ᏕᏋᏁᏬ(Slp)-XD"
     },
     
     
@@ -90,33 +90,33 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
+      "value": "*🎉👀Senu Status Seened🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "ᎥᎷ ᏕᏋᏁᏬ King"
       
      }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "94742340313"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦ v2"
+      "value": "✦ᏕᏋᏁᏬ xᴅ✦ v2"
 
       }, 
 
@@ -136,7 +136,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ᏕᏋᏁᏬ ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
     },
 
       "DELETE_LINKS": {
@@ -147,8 +147,8 @@
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_TYPING": {
@@ -170,8 +170,8 @@
     
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "OWNER_REACT": {
